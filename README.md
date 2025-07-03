@@ -39,10 +39,10 @@ I love to learn something new about this passionate world every new day 👨🏻
 <details name="technology">
 <summary>JS/TS</summary>
 
-- [Distitianos](https://github.com/ed1808/Distitianos).
-- [Sticky Notes](https://github.com/ed1808/sticky-notes).
-- [Nexus](https://github.com/ed1808/nexus).
-- [Code64Lite](https://github.com/ed1808/code64lite).
+- [Distitianos](https://github.com/ed1808/Distitianos)
+- [Sticky Notes](https://github.com/ed1808/sticky-notes)
+- [Nexus](https://github.com/ed1808/nexus)
+- [Code64Lite](https://github.com/ed1808/code64lite)
 
 </details>
 
@@ -50,29 +50,29 @@ I love to learn something new about this passionate world every new day 👨🏻
 <details name="technology">
 <summary>C#</summary>
 
-- [TaskTracker](https://github.com/ed1808/DotnetTaskTracker).
+- [TaskTracker](https://github.com/ed1808/DotnetTaskTracker)
 
 </details>
 
 <details name="technology">
 <summary>Dart/Flutter</summary>
 
-- [Plan It](https://github.com/ed1808/plan_it).
-- [Task Tracker](https://github.com/ed1808/task_tracker).
+- [Plan It](https://github.com/ed1808/plan_it)
+- [Task Tracker](https://github.com/ed1808/task_tracker)
 
 </details>
 
 <details name="technology">
 <summary>PHP</summary>
 
-- [PhORM](https://github.com/ed1808/PhORM).
+- [PhORM](https://github.com/ed1808/PhORM)
 
 </details>
 
 <details name="technology">
 <summary>Python</summary>
 
-- [Foodies](https://github.com/ed1808/foodies).
+- [Foodies](https://github.com/ed1808/foodies)
 
 </details>
 

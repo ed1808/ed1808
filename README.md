@@ -46,6 +46,14 @@ I love to learn something new about this passionate world every new day 👨🏻
 
 </details>
 
+
+<details name="technology">
+<summary>C#</summary>
+
+- [TaskTracker](https://github.com/ed1808/DotnetTaskTracker).
+
+</details>
+
 <details name="technology">
 <summary>Dart/Flutter</summary>
 

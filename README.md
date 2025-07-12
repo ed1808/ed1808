@@ -36,32 +36,101 @@ I love to learn something new about this passionate world every new day 👨🏻
 
 ## 🚀 Projects
 
+<details name="project">
+<summary>CLI</summary>
+
+<details name="technology">
+<summary>C#</summary>
+
+- [Task Tracker](https://github.com/ed1808/TaskTracker)
+- [Pocket Pal CLI](https://github.com/ed1808/PocketPalCLI)
+  
+</details>
+
+<details name="technology">
+<summary>Dart</summary>
+
+- [Task Tracker](https://github.com/ed1808/task_tracker)
+  
+</details>
+
+</details>
+
+---
+
+<details name="project">
+<summary>Web API</summary>
+
+<details name="technology">
+<summary>C#</summary>
+
+- [ToDoAPI](https://github.com/ed1808/ToDoListAPI)
+  
+</details>
+
 <details name="technology">
 <summary>JS/TS</summary>
 
 - [Distitianos](https://github.com/ed1808/Distitianos)
+  
+</details>
+
+</details>
+
+---
+
+<details name="project">
+<summary>Web</summary>
+
+<details name="technology">
+<summary>Python</summary>
+
+- [Foodies](https://github.com/ed1808/foodies)
+  
+</details>
+
+<details name="technology">
+<summary>JS/TS</summary>
+
 - [Sticky Notes](https://github.com/ed1808/sticky-notes)
+  
+</details>
+
+</details>
+
+---
+
+<details name="project">
+<summary>Mobile</summary>
+
+<details name="technology">
+<summary>Flutter</summary>
+
+- [Plan It](https://github.com/ed1808/plan_it)
+  
+</details>
+
+</details>
+
+---
+
+<details name="project">
+<summary>Desktop</summary>
+
+<details name="technology">
+<summary>JS/TS</summary>
+
 - [Nexus](https://github.com/ed1808/nexus)
 - [Code64Lite](https://github.com/ed1808/code64lite)
 
 </details>
 
-
-<details name="technology">
-<summary>C#</summary>
-
-- [TaskTracker](https://github.com/ed1808/TaskTracker)
-- [ToDoAPI](https://github.com/ed1808/ToDoListAPI)
-
 </details>
 
-<details name="technology">
-<summary>Dart/Flutter</summary>
+---
 
-- [Plan It](https://github.com/ed1808/plan_it)
-- [Task Tracker](https://github.com/ed1808/task_tracker)
-
-</details>
+<details name="project">
+<summary>Misc</summary>
 
 <details name="technology">
 <summary>PHP</summary>
@@ -69,11 +138,6 @@ I love to learn something new about this passionate world every new day 👨🏻
 - [PhORM](https://github.com/ed1808/PhORM)
 
 </details>
-
-<details name="technology">
-<summary>Python</summary>
-
-- [Foodies](https://github.com/ed1808/foodies)
 
 </details>
 

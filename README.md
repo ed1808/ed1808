@@ -71,7 +71,7 @@ I love to learn something new about this passionate world every new day 👨🏻
 <details name="technology">
 <summary>JS/TS</summary>
 
-- [Distitianos](https://github.com/ed1808/Distitianos)
+- [Develogger](https://github.com/ed1808/develogger)
   
 </details>
 
@@ -122,20 +122,6 @@ I love to learn something new about this passionate world every new day 👨🏻
 
 - [Nexus](https://github.com/ed1808/nexus)
 - [Code64Lite](https://github.com/ed1808/code64lite)
-
-</details>
-
-</details>
-
----
-
-<details name="project">
-<summary>Misc</summary>
-
-<details name="technology">
-<summary>PHP</summary>
-
-- [PhORM](https://github.com/ed1808/PhORM)
 
 </details>
 

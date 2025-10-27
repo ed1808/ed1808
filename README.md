@@ -68,13 +68,6 @@ I love to learn something new about this passionate world every new day 👨🏻
   
 </details>
 
-<details name="technology">
-<summary>JS/TS</summary>
-
-- [Develogger](https://github.com/ed1808/develogger)
-  
-</details>
-
 </details>
 
 ---
